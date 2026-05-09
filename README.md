@@ -1,5 +1,9 @@
 # 🚆 Linux Railway Reservation System
 
+![Bash](https://img.shields.io/badge/Bash-Scripting-green)
+![Linux](https://img.shields.io/badge/Platform-RedHatLinux-red)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 A terminal-based Railway Ticket Booking System developed using Bash Shell Scripting in a Red Hat Linux environment.  
 
 This project simulates real-world railway reservation workflows including passenger authentication, train search, seat allocation, waiting list handling, payment validation, ticket generation, and cancellation with refund processing.
@@ -97,7 +101,7 @@ Linux-Railway-Reservation-System/
 │
 │
 ├── output/
-│   └── OUTPUT.pdf
+│   └── Project-Execution-Documentation.pdf.pdf
 │   └── output preview.mp4
 │
 └── README.md
