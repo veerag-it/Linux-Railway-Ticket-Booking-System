@@ -1,0 +1,5 @@
+Format for trains.txt: TrainNo|TrainName|Source|Destination
+Format for users.txt: Username|Password|Name|aaddhar no.|ph no.
+Format for tickets.txt: $pnr|$current_user|$selected_train|$selected_date|$timestamp|$fare|$passenger_block
+Format of $passenger_block: $coach-$seatno-$berth-$status-$gender-$age
+Format for payments.txt : $pnr|$current_user|$total_fare|$payment_method|SUCCESS|$timestamp

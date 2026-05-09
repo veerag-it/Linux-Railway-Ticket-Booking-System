@@ -1,0 +1,4 @@
+101|Rajdhani Express|Delhi|Mumbai
+102|Shatabdi Express|Delhi|Chandigarh
+103|Duronto Express|Kolkata|Delhi
+104|Garib Rath|Mumbai|Ahmedabad
